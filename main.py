@@ -1,4 +1,5 @@
 # Watch Store Backend
+# CRUD operations
 from users import (
     add_user,
     get_user,
